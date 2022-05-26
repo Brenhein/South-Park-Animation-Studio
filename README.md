@@ -1,7 +1,7 @@
 # South-Park-Animation-Studio
 This Windows application is a South Park animation studio, with the addition of a South Park Stylized Sparty and an apple tree that
 grows throughout the animation. This tree can be seeded such that the same tree grows every time depending on the seed. The trees can also 
-bend based on a wind speed toggle which relates to how significant the tree bends, and apples can be harvested into a basket, as well. When 
+bend based on a wind speed toggle which relates to how significantly the tree bends, and apples can be harvested into a basket, as well. When 
 creating an animation, characters and their body parts can be moved around, and once an animation sequence is complete, it can be saved and 
 loaded back in at a later time to be viewed again.
 
