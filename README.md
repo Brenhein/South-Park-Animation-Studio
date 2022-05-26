@@ -5,7 +5,7 @@ bend based on a wind speed toggle which relates to how significantly the tree be
 creating an animation, characters and their body parts can be moved around, and once an animation sequence is complete, it can be saved and 
 loaded back in at a later time to be viewed again.
 
-# The application
+# The Application
 The TreeLib and TreeDemo were mainly implemented by me. The bulk of the project was focused on implementing these for a randomly generated
 apple tree that can grow based on the seed provided, an adapter that can translate the projects for the canadian experience, and creating
 a saving mechanism so that animations created can be saved and loaded back in later for viewing.
