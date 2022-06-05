@@ -12,5 +12,5 @@ a saving mechanism so that animations created can be saved and loaded back in la
 
 The CandianExperience, while the files were provided by our professor for this project, most of the files were implemented or worked on by me in previous 
 assignments, either through a tutorial that helped guide me or through tasks that were left to for me to solve, such as intepolation between frames
-and handling animation keyframes. The solution was provided simply so students who didn't complete those assingments were not at a disadvantage for the
+and handling animation keyframes. The solution was provided simply so students who didn't complete those assignments were not at a disadvantage for the
 class project. Certain files, such as using xml to generate and read .anim files, were implemented by me for the project.
